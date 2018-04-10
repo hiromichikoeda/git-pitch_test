@@ -19,8 +19,8 @@ https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレ�
 
 ---
 ### 実際に作ったスライド
-  https://gitpitch.com/hiromichikoeda/git-pitch_test/
-  https://gitpitch.com/hiromichikoeda/git-pitch_test?p=sample
+  https://gitpitch.com/hiromichikoeda/techshare/
+  https://gitpitch.com/hiromichikoeda/techshare?p=sample
 
 ---
 
