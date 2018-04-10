@@ -1,3 +1,5 @@
+---?include=sample/PITCHME.md
+
 ---
 
 スライドサンプル
