@@ -9,11 +9,17 @@
 外部コードの読み込み
 
 
+---?include=［ディレクトリ]/[ファイル名]
+をPITCHME.mdに記述で外部のmdファイルをインクルード出来る（自己紹介ページとか分けておくと便利かも）
+ 
+?p=で繋げばディレクトりも分けて管理できる
+https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレクトリ名]
 
 
 ---
 ### 実際に作ったスライド
   https://gitpitch.com/hiromichikoeda/git-pitch_test/
+  https://gitpitch.com/hiromichikoeda/git-pitch_test?p=sample
 
 ---
 
