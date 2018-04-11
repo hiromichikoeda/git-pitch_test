@@ -34,15 +34,9 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
 
 ---
-### 「Git Pitch」を使うメリット・デメリット
-
-
----
-
-
 ### 基本的な書き方
 
-- `---`でページを区切る
+####`---`でページを区切る
 
 ```md
 ---
@@ -54,11 +48,11 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 ```
 
 ---?code=sample.js
-外部コードの読み込み
+`---?code=sample.js`の様に記述するとリポジトリ内ファイルを表示できる（リポジトリ内のsample.jsを表示中）
 
 
 ---?include=［ディレクトリ]/[ファイル名]
-をPITCHME.mdに記述で外部のmdファイルをインクルード出来る（自己紹介ページとか分けておくと便利かも）
+`---?include=［ディレクトリ]/[ファイル名]`を記述で外部のmdファイルをインクルード出来る（自己紹介ページとか分けておくと便利かも）
  
 ?p=で繋げばディレクトりも分けて管理できる
 https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレクトリ名]
