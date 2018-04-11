@@ -12,15 +12,15 @@
 ---
 このようなURLにアクセス出来るようになっているはずです
 
-#### リポジトリ直下にPITCHME.mdを置いた場合
+- リポジトリ直下にPITCHME.mdを置いた場合
 
 `https://gitpitch.com/[ユーザー名]/[リポジトリ名]`
 
-#### サブディレクトリで管理する場合
+- サブディレクトリで管理する場合
 
 `https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレクトリ名]`
 
-#### 例：このスライド自身のURL
+- 例：このスライド自身のURL
 
 https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
