@@ -16,7 +16,7 @@ Netlify が提供している CMS
 ### 手順
 [Githubのdevelopers](https://github.com/settings/developers)の「New OAuth App」からアプリケーションを登録する
 
-<img src="./images/2018-04-12 13.46.04.png">
+<img src="https://github.com/hiromichikoeda/techshare/blob/master/netlify-cms/images/2018-04-12%2013.52.56.png">
 
 
 - 「Authorization callback URL」には「https://api.netlify.com/auth/done」と入力し、それ以外は適宜入力で大丈夫です
