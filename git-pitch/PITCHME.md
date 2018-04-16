@@ -28,12 +28,12 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
 ---
 
-![Logo](assets/logo.jpg)
+![Logo](git-pitch/assets/logo.jpg)
 
 
 ---
 ## 雨
----?image=assets/images/bg.jpg
+---?image=git-pitch/assets/images/bg.jpg
 
 
 
