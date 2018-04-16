@@ -1,0 +1,11 @@
+theme : moon
+theme-override : git-pitch/assets/css/PITCHME.css
+logo : git-pitch/assets/images/logo.png
+
+#transition : convex
+#transition : concave
+#transition : default
+transition : fade
+#transition : none
+#transition : slide
+#transition : zoom
