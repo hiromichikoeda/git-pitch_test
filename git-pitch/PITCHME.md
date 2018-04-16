@@ -25,6 +25,18 @@
 https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
 
+
+---
+
+![Logo](assets/logo.jpg)
+
+
+---
+## 雨
+---?image=assets/images/bg.jpg
+
+
+
 ---
 ### 「Git Pitch」を使うメリット・デメリット
 - 😁 Githubアカウントがあればすぐ外部公開用URL付きのスライドが簡単に作成できる|
