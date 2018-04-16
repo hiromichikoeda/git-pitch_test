@@ -1,20 +1,11 @@
-@import url(https://fonts.googleapis.com/earlyaccess/notosansjp.css);
-body {
-  font-family: 'Noto Sans JP';
-}
-
-.reveal h2 {
-  color: red;
-}
-
 .reveal section img {
   border: 0;
   box-shadow: none;
 }
 
-.reveal .slides {
+/* .reveal .slides {
     text-align: left;
-}
+} */
 .reveal .slides section>* {
     margin-left: 0;
     margin-right: 0;
