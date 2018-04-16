@@ -1,4 +1,4 @@
-theme : moon
+#theme : moon
 theme-override : git-pitch/assets/css/PITCHME.css
 logo : git-pitch/assets/images/logo.png
 
