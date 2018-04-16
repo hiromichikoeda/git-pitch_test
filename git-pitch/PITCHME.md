@@ -33,7 +33,7 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
 ---
 ## 雨
----?image=git-pitch/assets/images/bg.jpg
+---?image=assets/images/bg.jpg
 
 
 
