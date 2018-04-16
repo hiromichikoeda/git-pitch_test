@@ -3,9 +3,9 @@ theme-override : assets/css/PITCHME.css
 
 
 #transition : convex
-#transition : concave
+transition : concave
 #transition : default
 #transition : fade
 #transition : none
 #transition : slide
-transition : zoom
+#transition : zoom
