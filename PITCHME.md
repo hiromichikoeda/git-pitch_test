@@ -23,5 +23,15 @@ https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレ�
 
 ---
 
+![Logo](assets/logo.jpg)
+
+
+---
+## 雨
+---?image=assets/images/bg.jpg
+
+
+---
+
 
 ### おわり
