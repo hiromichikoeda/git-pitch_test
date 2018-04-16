@@ -31,11 +31,13 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 ![Logo](git-pitch/assets/images/logo.jpg)
 
 
----
-## 雨
 ---?image=git-pitch/assets/images/bg.jpg
+## 雨
 
 
+---?image=git-pitch/assets/images/bg.jpg&position=left&size=60% 100%
+## 雨
+60%
 
 ---
 ### 「Git Pitch」を使うメリット・デメリット
