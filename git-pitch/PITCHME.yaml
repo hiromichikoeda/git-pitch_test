@@ -1,11 +1,10 @@
 theme : moon
 theme-override : assets/css/PITCHME.css
 
-
 #transition : convex
-#transition : concave
+transition : concave
 #transition : default
 #transition : fade
 #transition : none
-transition : slide
+#transition : slide
 #transition : zoom
