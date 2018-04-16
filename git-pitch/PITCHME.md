@@ -28,7 +28,7 @@ https://gitpitch.com/hiromichikoeda/techshare?p=git-pitch
 
 ---
 
-![Logo](git-pitch/assets/logo.jpg)
+![Logo](assets/images/logo.jpg)
 
 
 ---
