@@ -26,12 +26,12 @@ https://gitpitch.com/[ユーザー名]/[リポジトリ名]?p=[サブディレ�
 ![Logo](assets/logo.jpg)
 
 
----
-## 雨
 ---?image=assets/images/bg.jpg
+## 雨
 
+
+
+---?image=http://spark.apache.org/docs/latest/img/cluster-overview.png
 
 ---
-
-
 ### おわり
