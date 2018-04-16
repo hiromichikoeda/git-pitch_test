@@ -4,10 +4,15 @@
 ## さっそくデモ
 https://techlife-koe.netlify.com
 
+
+---
 ## さっそくデモ
 https://techlife-koe.netlify.com/admin
-netlifyの自身のブログURLに/adminを付ける
 
+netlifyで作成したサイトのURLに/adminを付ける
+
+
+---
 [Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
 
 
