@@ -1,8 +1,10 @@
-# 「Netlify CMS」で管理画面を作る
+# 「Netlify CMS」
+で管理画面を作る
 
 ---
 ## Netlify
-[Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
+[Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めると
+わかりやすいです。
 
 ---
 ## さっそくデモ
