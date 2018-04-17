@@ -26,7 +26,8 @@ https://techlife-koe.netlify.com/admin/
 1. admin内に「index.html」と「config.yml」を作成し各種設定を記述
 
 ---
-```index.html
+index.html
+```.html
 layout: false
 ---
 
@@ -52,7 +53,8 @@ layout: false
 [Netlify CMS公式 | App File Structure](https://www.netlifycms.org/docs/add-to-your-site/#app-file-structure)
 
 ---
-```config.yml
+config.yml
+```.yml
 backend:
   name: github
   repo: hiromichikoeda/hexo-netlify
@@ -84,10 +86,14 @@ collections:
 [Netlify CMS公式 | Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
 
 ---
-### 使用した感想
-- 設定画面を作り込むのが面倒そう😵
-- 慣れているならエディタ上で編集してcommitのほうが早そう😵
-- Git分からない人でも簡単にアップできる😁
+設定を駆使するとこんな画面がつくれる？
+[Netlify公式demo]（https://cms-demo.netlify.com/#/collections/posts）
 
 ---
-おしまい
+### 使用した感想
+- 設定画面を作り込むのが面倒そう😵|
+- 慣れているならエディタ上で編集してcommitのほうが早そう😵|
+- Git分からない人でも簡単にアップできる😁|
+
+---
+おしまい@fa[smile]|
