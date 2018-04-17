@@ -20,7 +20,7 @@ https://techlife-koe.netlify.com/admin/
 <img src="https://github.com/hiromichikoeda/techshare/netlify-cms/assets/images/2018-04-12 13.52.56.png">
 [Developer applications](https://github.com/settings/developers)からアプリケーションを登録します。
 
-![アプリケーション登録](netlify-cms/assets/images/2018-04-12 13.52.56.png)
+![アプリケーション登録](assets/images/2018-04-12 13.52.56.png)
 Authorization callback URLには 'https://api.netlify.com/auth/done' を指定します。
 それ以外は自由に記載してOKです。
 
