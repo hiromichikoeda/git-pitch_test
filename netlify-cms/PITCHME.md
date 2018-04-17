@@ -1,9 +1,17 @@
 # 「Netlify CMS」
-で管理画面を作る@fa[github]
+で管理画面を作る
 
 ---
 ## 「Netlify」
+静的コンテンツをベースにしたWebサイトのホスティングに特化したサービス。「Hexo」や「Hugo」などの静的サイトジェネレータでWebサイトを作って公開できる。
+
 [Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
+
+
+---
+## 「Netlify CMS」
+Netlifyをwordpressのように管理画面で管理することができる
+
 
 ---
 ## 管理画面DEMO
