@@ -1,5 +1,5 @@
 # 「Netlify CMS」
-で管理画面を作る
+で管理画面を作る@fa[fa-github]
 
 ---
 ## 「Netlify」
