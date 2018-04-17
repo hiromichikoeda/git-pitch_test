@@ -29,7 +29,7 @@ Authorization callback URLには 'https://api.netlify.com/auth/done' を指定�
 
 
 
-
+---
 ## 参考
 [Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
 
