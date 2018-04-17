@@ -20,9 +20,20 @@ https://techlife-koe.netlify.com/admin/
 
 ---
 ## やり方
-1. [Developer applications](https://github.com/settings/developers)からアプリケーションを登録（Client IDとClient Secretは後で必要なので控えてください）
-1. [NetlifyのOAuth認証の登録画面](https://app.netlify.com/sites/techlife-koe/settings/access)NetlifyをGithubを連携
+1. [Github](https://github.com/settings/developers)からアプリケーションを登録（Client IDとClient Secretは後で必要なので控えてください）
+1. [NetlifyのOAuth認証の登録画面](https://app.netlify.com/sites/techlife-koe/settings/access)でアプリを連携
 1. 記事を保存しているディレクトリに '/admin' を作成
 1. admin内に「index.html」と「config.yml」を作成し各種設定を記述
 
+---
+'''
 
+'''
+
+---
+'''
+'''
+---
+config.ymlは以下参照。
+
+[Netlify CMS公式 |Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
