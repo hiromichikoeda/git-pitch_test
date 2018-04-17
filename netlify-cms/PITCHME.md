@@ -3,14 +3,14 @@
 
 ---
 ## 「Netlify」
-静的コンテンツをベースにしたWebサイトのホスティングに特化したサービス。「Hexo」や「Hugo」などの静的サイトジェネレータでWebサイトを作って公開できる。
+静的コンテンツをベースにしたWebサイトのホスティングに特化したサービスで、「Hexo」や「Hugo」などの静的サイトジェネレータでWebサイトを作って公開できます。
 
-[Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
+[参考 | Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)がわかりやすいです。
 
 
 ---
 ## 「Netlify CMS」
-Netlifyをwordpressのように管理画面で管理することができる
+NetlifyをWordPressのように管理画面で管理することができます。
 
 
 ---
@@ -29,7 +29,7 @@ https://techlife-koe.netlify.com/admin/
 index.html
 ```.html
 layout: false
----
+`---`
 
 <!doctype html>
 <html>
