@@ -1,16 +1,12 @@
 # 「Netlify CMS」で管理画面を作る
-
+![Netlify CMS](https://d33wubrfki0l68.cloudfront.net/1f4ce04369d08e4f8c3a7ca30a11c4873fda2ae1/19979/img/netlify-cms-logo.svg)
 ---
 ## さっそくデモ
-https://techlife-koe.netlify.com
+https://techlife-koe.netlify.com/admin/
 
 
 ---
-## さっそくデモ
-https://techlife-koe.netlify.com/admin
-
-netlifyで作成したサイトのURLに/adminを付ける
-
+## やり方
 
 ---
 [Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
