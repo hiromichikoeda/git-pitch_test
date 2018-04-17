@@ -28,9 +28,6 @@ https://techlife-koe.netlify.com/admin/
 ---
 index.html
 ```.html
-layout: false
-`---`
-
 <!doctype html>
 <html>
 <head>
@@ -49,8 +46,8 @@ layout: false
 </body>
 </html>
 ```
-参考
-[Netlify CMS公式 | App File Structure](https://www.netlifycms.org/docs/add-to-your-site/#app-file-structure)
+
+[参考 | Netlify CMS公式 | App File Structure](https://www.netlifycms.org/docs/add-to-your-site/#app-file-structure)
 
 ---
 config.yml
@@ -82,18 +79,19 @@ collections:
     - {label: "Tags", name: "tags", widget: "list", default: "" }, default: "" }
 
 ```
-参考
-[Netlify CMS公式 | Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
+
+[参考 | Netlify CMS公式 | Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
 
 ---
-設定を駆使するとこんな画面がつくれる？
+設定を駆使するとこんな画面がつくれそう。
+
 [Netlify公式demo]（https://cms-demo.netlify.com/#/collections/posts）
 
 ---
 ### 使用した感想
-- 設定画面を作り込むのが面倒そう😵|
-- 慣れているならエディタ上で編集してcommitのほうが早そう😵|
-- Git分からない人でも簡単にアップできる😁|
+- Git分からない人でも簡単に記事をアップできる
+- 設定画面を作り込むのが面倒そう
+- 慣れているならエディタ上で編集してcommitのほうが早そう
 
 ---
-おしまい@fa[smile]|
+おしまい|
