@@ -26,14 +26,68 @@ https://techlife-koe.netlify.com/admin/
 1. admin内に「index.html」と「config.yml」を作成し各種設定を記述
 
 ---
-'''
+```index.html
+layout: false
+---
 
-'''
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Content Manager</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/netlify-cms@^0.3/dist/cms.css" />
+
+</head>
+<body>
+  <script src="https://unpkg.com/netlify-cms@^0.3/dist/cms.js"></script>
+  <script>
+    CMS.registerPreviewStyle('/css/main.css');
+  </script>
+</body>
+</html>
+```
+参考
+[Netlify CMS公式 | App File Structure](https://www.netlifycms.org/docs/add-to-your-site/#app-file-structure)
 
 ---
-'''
-'''
----
-config.ymlは以下参照。
+```config.yml
+backend:
+  name: github
+  repo: hiromichikoeda/hexo-netlify
+  branch: master
 
-[Netlify CMS公式 |Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
+publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads"
+public_folder: "source/images/uploads"
+
+collections:
+- name: "blog" # Used in routes, e.g. /admin/collections/blog
+  label: "Blog" # Used in the UI
+  folder: "source/_posts" # The path to the folder where the documents are stored
+  create: true # Allow users to create new documents in this collection
+  slug: "{{slug}}"
+  fields:
+    - {label: "Title", name: "title", widget: "string"}
+    - {label: "Publish Date", name: "date", widget: "datetime", default: ""}
+    - {label: "Categories", name: "categories", widget: "list", default: ""}
+    - {label: "Image", name: "image", widget: "image", required: false}
+    - {label: "Content", name: "body", widget: "markdown"}
+    - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+  meta:
+    - {label: "Tags", name: "tags", widget: "list", default: "" }, default: "" }
+
+```
+参考
+[Netlify CMS公式 | Configuration Options](https://www.netlifycms.org/docs/configuration-options/)
+
+---
+### 使用した感想
+- 設定画面を作り込むのが面倒そう😵
+- 慣れているならエディタ上で編集してcommitのほうが早そう😵
+- Git分からない人でも簡単にアップできる😁
+
+---
+おしまい
