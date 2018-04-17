@@ -1,5 +1,5 @@
 #theme : moon
-theme : black
+#theme : black
 theme-override : netlify-cms/assets/css/PITCHME.css
 #logo : git-pitch/assets/images/logo.png
 
