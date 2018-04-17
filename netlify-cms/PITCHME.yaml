@@ -1,6 +1,6 @@
 #theme : moon
 theme : black
-theme-override : git-pitch/assets/css/PITCHME.css
+theme-override : netlify-cms/assets/css/PITCHME.css
 #logo : git-pitch/assets/images/logo.png
 
 #GitPitch supports six distinct layouts. The supported layouts are named center, center-left, center-right, top, top-left, and top-right respectively.
