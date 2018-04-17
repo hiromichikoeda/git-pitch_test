@@ -1,6 +1,8 @@
-# 「Netlify CMS」
-で管理画面を作る
+# 「Netlify CMS」で管理画面を作る
 
+---
+## Netlify
+[Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
 
 ---
 ## さっそくデモ
@@ -20,7 +22,7 @@ https://techlife-koe.netlify.com/admin/
 <img src="https://github.com/hiromichikoeda/techshare/netlify-cms/assets/images/2018-04-12 13.52.56.png">
 [Developer applications](https://github.com/settings/developers)からアプリケーションを登録します。
 
-![アプリケーション登録](assets/images/2018-04-12 13.52.56.png)
+![アプリケーション登録](techshare/netlify-cms/assets/images/2018-04-12 13.52.56.png)
 Authorization callback URLには 'https://api.netlify.com/auth/done' を指定します。
 それ以外は自由に記載してOKです。
 
@@ -28,10 +30,6 @@ Authorization callback URLには 'https://api.netlify.com/auth/done' を指定�
 
 
 
-
----
-## 参考
-[Netlify公式ブログ](https://www.netlify.com/blog/2015/10/26/a-step-by-step-guide-hexo-on-netlify/)の手順通り進めるとわかりやすいです。
 
 
 ---
