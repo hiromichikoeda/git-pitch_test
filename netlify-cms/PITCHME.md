@@ -85,7 +85,7 @@ collections:
 ---
 設定を駆使するとこんな画面がつくれそう。
 
-[Netlify公式demo]（https://cms-demo.netlify.com/#/collections/posts/)
+[Netlify公式demo]（https://cms-demo.netlify.com/#/collections/posts)
 
 ---
 ### 使用した感想
